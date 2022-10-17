@@ -4,12 +4,11 @@
 
 ### R Analysis & Dashboards
 
-[Project 1 Title](/sample_page)
+[UK Weather Display]([/sample_page](https://agnesanalysis.shinyapps.io/project/))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Python Analysis
 
-- [Project 1 Title](http://example.com/)
 
 
 ### SQL Data Manipulation
@@ -18,5 +17,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
